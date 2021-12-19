@@ -2,7 +2,7 @@ instance_type = "t2.micro"
 ami = "ami-xxxxxx"
 instancecount = 3
 volumecount = 4
-keyname = "devops"
+keyname = "terraform"
 
 devicename = ["/dev/sdh","/dev/sdb","/dev/sdc"]
 
